@@ -1,0 +1,15 @@
+.body_background{
+    background-image: url("Matrix.avif");
+}
+.login_heading, .login_label, #player_question, #player_answer, #num1_label, #num2_label, #player1_name, #player1_score, #player2_name, #player2_score{
+    color: white;
+}
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
